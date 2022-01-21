@@ -6,7 +6,7 @@
 4-What is Spring AOP ? Where and How to use it?  
 5-What is Singleton and where to use it ?  
 6-What is Spring Boot Actuator and Where to use it?  
-7-What is the primary difference between Spring and Spring Boot?  8-
+7-What is the primary difference between Spring and Spring Boot?  
 8-Why to use VCS ?  
 9-What are SOLID Principles ? Give sample usages in Java?  
 10-What is RAD model ?  
